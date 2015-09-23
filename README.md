@@ -12,7 +12,9 @@ free
 ## sample output
 
 Used Memory:            9.24 GB
+
 Free Memory:            54.73 GB
+
 Swap:                    used = 7.85M  free = 248.15M
 
 
